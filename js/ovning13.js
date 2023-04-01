@@ -1,4 +1,4 @@
-let firstName = "Tilda";
-let lastName = "Källström";
+let ffirstName = "Tilda";
+let llastName = "Källström";
 
-document.write(firstName + " " + lastName);
+document.write(ffirstName + " " + llastName);

@@ -1,12 +1,12 @@
-let x = 5;
-let y = 6;
-let z = 4;
+let a = 5;
+let s = 6;
+let d = 4;
 
-if ( x > y && x > z ) {
+if ( a > s && a > d ) {
     document.write("X är det högsta talet");
-} else if ( y > x && y > z ) {
+} else if ( s > a && s > d ) {
     document.write("Y är det högsta talet");
-} else if ( z > x && z > y ) {
+} else if ( d > a && d > s ) {
     document.write("X är det högsta talet");
 } else {
     document.write("Det högsta talet finns lagrat i fler än en variabel");
